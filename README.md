@@ -77,7 +77,8 @@ August 2013 – May 2017
 9. Cybersecurity Ventures – Cybersecurity Ventures is an online resource for security professionals. It provides detailed information about the cybersecurity job market, as well as job postings and news. 
 10. Security Magazine – Security Magazine is an online resource for security professionals. It provides news, job postings, and educational resources. 
 
-Tips & Tricks:
+**Tips & Tricks**
+
 1. Network with professionals in the security field. 
 2. Utilize job search engines to find job postings. 
 3. Research salaries and job descriptions to find the right job. 
