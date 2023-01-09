@@ -1,4 +1,4 @@
-# Security-study-plan
+# Study-plan-Cybersecurity
 
 This plan is created for young individuals who are starting in cyber security or aspiring to acheive certifications and gather knowledge in Cloud Security, AppSec, DevSecOps and More!
 
@@ -20,9 +20,11 @@ Phone Number
 Email
 
 *Objective*
+
 To obtain a position as a Security Analyst where I can utilize my knowledge of security protocols and tools to protect the organization's data and systems.
 
 *Skills*
+
 • Extensive knowledge of security protocols and tools, including firewalls, antivirus software, and encryption
 • Excellent problem-solving and analytical skills
 • Ability to identify and address security threats
