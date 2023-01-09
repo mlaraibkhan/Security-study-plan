@@ -12,18 +12,18 @@ This module contain free resources to polish skills at beginner level, like Buil
 
 You can use below template to build your first resume and target skills mentioned as well to land the right position such as _Information Security Analyst_
 
-*Resume Template for Security Analyst Job*
+**Resume Template for Security Analyst Job**
 
 Name
 Address
 Phone Number
 Email
 
-*Objective*
+**Objective**
 
 To obtain a position as a Security Analyst where I can utilize my knowledge of security protocols and tools to protect the organization's data and systems.
 
-*Skills*
+**Skills**
 
 • Extensive knowledge of security protocols and tools, including firewalls, antivirus software, and encryption
 • Excellent problem-solving and analytical skills
@@ -32,7 +32,7 @@ To obtain a position as a Security Analyst where I can utilize my knowledge of s
 • Excellent communication and interpersonal skills
 • Ability to work independently and as part of a team
 
-*Work Experience*
+**Work Experience**
 
 Security Analyst
 ABC Company, Anytown, USA
@@ -52,13 +52,13 @@ January 2017 – April 2019
 • Provided technical support to users
 • Updated and maintained software and hardware inventory
 
-*Education*
+**Education**
 
 Bachelor of Science in Computer Science
 Anytown University, Anytown, USA
 August 2013 – May 2017
 
-*Certifications*
+**Certifications**
 • CompTIA Security+
 • Certified Ethical Hacker (CEH)
 
