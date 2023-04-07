@@ -6,7 +6,7 @@ AWS Cloud - https://lnkd.in/e_auX7VE
 Azure Cloud - https://lnkd.in/eCq_dvDq
 GCP Cloud - https://lnkd.in/eDNWnVsD
 
-Fundamentals
+## Fundamentals
 SANS Aces - https://lnkd.in/eNCPrtdd
 ISC(2) Certified in Cyber - https://lnkd.in/e6jB_6af
 Coursera - https://lnkd.in/ePMNVDm5
@@ -18,7 +18,7 @@ Cisco Network Essentials - https://lnkd.in/eMXXFBPN
 Palo Alto - https://lnkd.in/ebz4VZmQ
 Fortinet NSE - https://lnkd.in/es3c_Q6E
 
-Penetration Testing
+## Penetration Testing
 TCM-Security - https://lnkd.in/eJQKmhnt
 PortSwigger Web Hacking - https://lnkd.in/eEa-fNfu
 CodeRed Hacking Essentials - https://lnkd.in/eJbyZp_9
@@ -31,13 +31,13 @@ Qualys - https://lnkd.in/eDWu2zyT
 Tenable (ntro) - https://lnkd.in/eQW2Zjj
 Class Central - https://lnkd.in/eWbmXfRU
 
-SIEM!
+## SIEM!
 Splunk - https://lnkd.in/e5ZVAEUF
 QRadar - https://lnkd.in/ebjbyq_x
 Elastic - https://lnkd.in/e-jXsnVs
 XPERT - https://lnkd.in/eYR7r3uD
 
-Engineering
+## Engineering
 Oxford - https://lnkd.in/eJHp7Dp2
 loT Privacy - https://lnkd.in/eN5xDUed
 Secure Software Development - https://lnkd.in/ebGpA4wG
